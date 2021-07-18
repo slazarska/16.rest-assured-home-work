@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/16.rest-assured-home-work.iml" filepath="$PROJECT_DIR$/.idea/16.rest-assured-home-work.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/16.rest-assured-home-work.main.iml" filepath="$PROJECT_DIR$/.idea/modules/16.rest-assured-home-work.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/16.rest-assured-home-work.test.iml" filepath="$PROJECT_DIR$/.idea/modules/16.rest-assured-home-work.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/16.rest-assured-home-work.iml" filepath="$PROJECT_DIR$/.idea/16.rest-assured-home-work.iml" group="16.rest-assured-home-work" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/16.rest-assured-home-work_main.iml" filepath="$PROJECT_DIR$/.idea/modules/16.rest-assured-home-work_main.iml" group="16.rest-assured-home-work" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/16.rest-assured-home-work_test.iml" filepath="$PROJECT_DIR$/.idea/modules/16.rest-assured-home-work_test.iml" group="16.rest-assured-home-work" />
     </modules>
   </component>
 </project>
